@@ -19,7 +19,6 @@
     "noFallthroughCasesInSwitch": false,
     "paths": {
       "@/*": ["./*"],
-      "@prisma/*": ["prisma/*"]
     },
     "types": ["node", "express", "jest"],
     "esModuleInterop": true
